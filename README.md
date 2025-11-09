@@ -1,4 +1,4 @@
-Hitman Ped System for QBCore FiveM
+Hitman Ped System for QBCore FiveM (Entirely Built by BLDR-AI)
 
 What this resource does
 - Spawns a single AI "Hitman" ped when a player crosses configured ped-kill thresholds.
