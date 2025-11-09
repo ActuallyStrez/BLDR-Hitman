@@ -1,7 +1,7 @@
 Hitman Ped System for QBCore FiveM (Entirely Built by BLDR-AI)
 
 What this resource does
-- Spawns a single AI "Hitman" ped when a player crosses configured ped-kill thresholds.
+- Spawns a single AI "Hitman" ped when a player crosses configured ped-kill thresholds, 10 locals.
 - Hitmen spawn in vehicles, chase the targeted player relentlessly until either the player or the hitman dies, and use police-like driving during pursuits.
 - Blips track the hitman while active and are removed on death/cleanup.
 - Includes server-side ped kill counting and a `/pedkills` command to view your count.
