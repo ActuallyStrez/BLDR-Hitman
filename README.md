@@ -46,6 +46,3 @@ Testing
 Security & Best Practices
 - All client-side actions are driven by server events; server-side validation exists for ped-kill thresholds.
 - Tweak distances, health, and driving style values in `config.lua` to fit your server's balance and performance needs.
-
-Need help?
-- Tell me which behavior you'd like adjusted (spawn distance, vehicle choices, notification text, pursuit rules) and I will update the resource.
